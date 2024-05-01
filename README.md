@@ -9,6 +9,7 @@ To implement the Classical Planning Algorithm.
   <li>Find a <b>plan</b> to reach the goal state</li>
   <li>Print the plan</li>
 </ol>
+
 ## PROGRAM
 
 ```PYTHON
